@@ -1,0 +1,5 @@
+khi hiện cả hai bài 3 và 4 trong phần 1 thì nó bị lỗi với thông báo:
+"Traceback (most recent call last):
+  File "c:\Users\phuon\HDT-CSB12\ss9\NguyenHuyPhuong_CSB12_minihackathons3.py", line 29, in <module>
+    input_text =input("Input a text: ")
+TypeError: 'str' object is not callable"
